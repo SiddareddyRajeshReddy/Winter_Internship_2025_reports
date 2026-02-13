@@ -10,11 +10,11 @@
 
 ---
 
-## SUMMARY of my Intern Work
+## SUMMARY OF MY INTERN WORK
 
 This report presents a comprehensive account of the work undertaken during my internship at Ririana Innovations Private Limited. The internship focused on full-stack web development using Django framework, encompassing database design, RESTful API development, authentication and authorization systems, algorithm implementation, payment gateway integration, and cloud deployment. 
 
-The project involved building a complete backend system with PostgreSQL database integration, JWT-based authentication, and Razorpay payment processing capabilities. The application's database was initially deployed on Render cloud platform for hosting and testing. Due to the expiration of Render's free trial period, a strategic database migration was undertaken, transitioning from Render's managed PostgreSQL to Neon's serverless PostgreSQL platform. This migration demonstrated adaptability to changing infrastructure requirements while maintaining application stability and data integrity.
+The project involved building a complete backend system with PostgreSQL database integration, JWT-based authentication, and Razorpay payment processing capabilities for a event app. The application's database was initially deployed on Render cloud platform for hosting and testing. Due to the expiration of Render's free trial period, a strategic database migration was undertaken, transitioning from Render's managed PostgreSQL to Neon's serverless PostgreSQL platform. This migration demonstrated adaptability to changing infrastructure requirements while maintaining application stability and data integrity.
 
 Key achievements include the successful development of secure authentication mechanisms, implementation of role-based authorization, integration of payment processing capabilities, and hands-on experience with cloud deployment and database migration strategies.
 
@@ -498,7 +498,7 @@ The internship at Ririana Innovations Private Limited provided comprehensive exp
 
 This internship has been instrumental in my professional development. The hands-on experience with industry-standard tools and practices has significantly enhanced my technical capabilities and provided valuable insights into software development workflows. The exposure to real-world challenges and problem-solving scenarios has prepared me for future roles in software engineering.
 
-### 10.5 Acknowledgments
+### 10.4 Acknowledgments
 
 I would like to express my sincere gratitude to Ririana Innovations Private Limited for providing this valuable learning opportunity. Special thanks to my mentors Founder & Director, Ririana Innovations Private Limited, Srijana Bhattarai Ma'am and Our Product Manager at Ririana Innovations Private Limited, Mukesh Ramesh Thombare, team members Priyanshu Singh, who guided me throughout this internship and helped me grow both technically and professionally.
 

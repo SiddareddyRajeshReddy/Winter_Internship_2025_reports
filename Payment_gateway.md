@@ -4,12 +4,12 @@ A complete Django-based payment gateway integration with Razorpay, supporting pa
 
 ## Features
 
-- 💳 **Payment Processing**: Create and capture payments through Razorpay
-- ✅ **Payment Verification**: Secure signature verification for payment callbacks
-- 📊 **Payment Status Tracking**: Real-time payment status monitoring
-- 💰 **Refund Management**: Full and partial refund support
-- 📝 **Payment History**: List and filter payment records
-- 🔒 **Secure Integration**: Signature verification and secure API handling
+- **Payment Processing**: Create and capture payments through Razorpay
+- **Payment Verification**: Secure signature verification for payment callbacks
+- **Payment Status Tracking**: Real-time payment status monitoring
+- **Refund Management**: Full and partial refund support
+- **Payment History**: List and filter payment records
+- **Secure Integration**: Signature verification and secure API handling
 
 ## Tech Stack
 
@@ -431,12 +431,7 @@ payment_gateway/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Support
-
 For Razorpay API documentation: [https://razorpay.com/docs/api/](https://razorpay.com/docs/api/)
 
 For issues and questions, please open an issue on GitHub.

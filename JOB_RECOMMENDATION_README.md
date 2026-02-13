@@ -1152,12 +1152,3 @@ For issues, questions, or contributions:
 - GitHub: https://github.com/yourorg/job-portal
 
 ---
-
-## License
-
-[Your License Here]
-
----
-
-**Last Updated:** February 11, 2024
-**Version:** 1.0.0
